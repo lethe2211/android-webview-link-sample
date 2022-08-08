@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">WebViewLinkSample</string>
+
+    <string name="toolbar_title">WebViewLink Sample</string>
+
+    <string name="searchbar_hint">Input the link URL here</string>
 </resources>
